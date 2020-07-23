@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GDI_MSSQL", "GDI_MSSQL.vbproj", "{BA7F134C-3BA4-49A5-AF00-E3B645551128}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "gdi barcode", "..\gdi barcode\gdi barcode.vdproj", "{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BA7F134C-3BA4-49A5-AF00-E3B645551128}.Release|x86.ActiveCfg = Release|Any CPU
+		{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}.Debug|Any CPU.ActiveCfg = Debug
+		{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}.Debug|x86.ActiveCfg = Debug
+		{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}.Release|Any CPU.ActiveCfg = Release
+		{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}.Release|Mixed Platforms.ActiveCfg = Release
+		{98FDBF23-E47B-4B4A-A326-FAEFC5763EE0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

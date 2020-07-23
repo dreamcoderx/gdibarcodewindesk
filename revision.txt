@@ -1,0 +1,13 @@
+03-feb-16 wed
+fixed resetting column at query
+
+
+10.28.16.FRI.1307H
+Set Released Quantity equal to Picked Quantity
+	Selection. Form So and Item List.
+
+
+11.26.17
+cancellation and insertion line item so
+
+08.31.17
